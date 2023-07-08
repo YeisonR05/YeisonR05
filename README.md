@@ -10,13 +10,13 @@ vfiuvdbfvbf
 * [![Javascript][javascript]][js-url] [![React][React.js]][React-url] [![Node][Node.js]][Node-url]
 
 ## Frontend Development
-* [![HTMLl5][html5]][html-url] [![CSS3][css3]][css-url]
+* [![HTMLl5][html5]][html-url] [![CSS3][css3]][css-url][![React][React.js]][React-url] [![Tailwind][Tailwind-css]][Tailwind-url]
 
 ## Backend Development
-* [![postgresql][PostgreSQL]][postgresql-url][![sequelize][Sequelize]][sequelize-url][![Node][Node.js]][Node-url]
+* [![postgresql][PostgreSQL]][postgresql-url] [![sequelize][Sequelize]][sequelize-url] [![Node][Node.js]][Node-url]
 
 ## Tools & Technologies
-* [![Github][github]][github-url][![Figma][Figma-des]][Figma-url][![Trello][trello]][trello-url][![Vercel][Vercel]][Vercel-url]
+* [![Github][github]][github-url] [![Figma][Figma-des]][Figma-url] [![Trello][trello]][trello-url] [![Vercel][Vercel]][Vercel-url]
 
 
 * [![React][React.js]][React-url][![Redux][Redux-query]][Redux-url][![Tailwind][Tailwind-css]][Tailwind-url]
