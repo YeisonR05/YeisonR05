@@ -1,10 +1,7 @@
-### Hi there 👋
+
+### ¿Quién Soy?
 
 I`m Yeison Johan Ramirez
-
-## ¿Quién Soy?
-
-vfiuvdbfvbf
 
 ### Programming Languages
 [![Javascript][javascript]][js-url] [![React][React.js]][React-url] [![Node][Node.js]][Node-url]
@@ -19,7 +16,7 @@ vfiuvdbfvbf
 [![Github][github]][github-url] [![Figma][Figma-des]][Figma-url] [![Trello][trello]][trello-url] [![Vercel][Vercel]][Vercel-url]
 
 
-## Información de contacto:
+### Contact Informations:
 
 [![linkedin][linkedin]][linkedin-urlyeison]
 <br>
