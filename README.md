@@ -9,13 +9,13 @@ vfiuvdbfvbf
 ## Principal Stack
 * [![Javascript][javascript]][js-url] [![React][React.js]][React-url] [![Node][Node.js]][Node-url]
 
-<h3>Frontend Development</h3>
+## Frontend Development
 * [![HTMLl5][html5]][html-url] [![CSS3][css3]][css-url]
 
-<h3>Backend Development</h3>
+## Backend Development
 * [![postgresql][PostgreSQL]][postgresql-url][![sequelize][Sequelize]][sequelize-url][![Node][Node.js]][Node-url]
 
-<h3>Tools & Technologies</h3>
+## Tools & Technologies
 * [![Github][github]][github-url][![Figma][Figma-des]][Figma-url][![Trello][trello]][trello-url][![Vercel][Vercel]][Vercel-url]
 
 
