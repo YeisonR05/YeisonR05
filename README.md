@@ -7,58 +7,24 @@ I`m Yeison Johan Ramirez
 vfiuvdbfvbf
 
 ## Principal Stack
-* [![React][React.js]][React-url][![Node][Node.js]][Node-url]
+* [![Javascript][javascript]][![React][React.js]][React-url][![Node][Node.js]][Node-url]
 
 <h3>Frontend Development</h3>
+* [![HTMLl5][html5]][html-url][![CSS3][css3]][css-url][![Tailwind][Tailwind-css]][Tailwind-url]
 
-* [![Javascript][javascript]][js-url][![HTMLl5][html5]][html-url][![CSS3][css3]][css-url]
-* [![React][React.js]][React-url][![Redux][Redux-query]][Redux-url][![Tailwind][Tailwind-css]][Tailwind-url]
-* [![postgresql][PostgreSQL]][postgresql-url][![sequelize][Sequelize]][sequelize-url]
-* [![firebase][firebase]][firebase-url][![Render][Render]][Render-url][![Vercel][Vercel]][Vercel-url]
-* [![Express][Express.js]][express-url][![Webpack][Webpack.js]][Webpack-url][![Node][Node.js]][Node-url][![NPM][npm]][npm-url]
-* [![Figma][Figma-des]][Figma-url][![Trello][trello]][trello-url]
-* [![Git][git]][git-url][![Github][github]][github-url]
+<h3>Backend Development</h3>
+* [![postgresql][PostgreSQL]][postgresql-url][![sequelize][Sequelize]][sequelize-url][![Node][Node.js]][Node-url]
 
-## Configuración del proyecto:
-
-Clona este repositorio en tu máquina local.
-Navega al directorio del proyecto: cd LobbyLair.
-Instala las dependencias del servidor: npm install.
-Navega al directorio del cliente: cd client.
-Instala las dependencias del cliente: npm install.
-Vuelve al directorio principal: cd ...
-Configura la conexión a la base de datos PostgreSQL en el archivo .env.
-Ejecuta el servidor y el cliente de forma simultánea: npm run dev.
-Abre tu navegador web y accede a https://lobbylair-gkallisti.vercel.app/ para ver LobbyLair en acción.
-                Contribución
+<h3>Tools & Technologies</h3>
+* [![Github][github]][github-url][![Figma][Figma-des]][Figma-url][![Trello][trello]][trello-url][![Vercel][Vercel]][Vercel-url]
 
 
-¡Nos encantaría recibir contribuciones para mejorar LobbyLair! Si deseas contribuir, sigue estos pasos:
+## Información de contacto:
 
-Haz un fork de este repositorio.
-Crea una rama con un nombre descriptivo: git checkout -b feature/nueva-caracteristica o git checkout -b fix/error-bug.
-Realiza tus modificaciones y mejoras.
-Asegúrate de ejecutar las pruebas y de que todo funcione correctamente.
-Haz commit de tus cambios: git commit -m "Agrega nueva característica" o git commit -m "Corrige error de bug".
-Envía tus cambios a tu repositorio remoto: git push origin feature/nueva-caracteristica.
-Abre un pull request en este repositorio y describe tus cambios en detalle.
-
-## Equipo:
-
-* Elizabeth Ortiz - [![linkedin][linkedin]][linkedin-urleli]
-* Fernando Volpato - [![linkedin][linkedin]][linkedin-urlfer]
-* Gisella Gonzalez - [![linkedin][linkedin]][linkedin-urlgise]
-* Lucas Ledesma - [![linkedin][linkedin]][linkedin-urllucas]
-* Matias Arroyo - [![linkedin][linkedin]][linkedin-urlmati]
-* Rodrigo Velazquez - [![linkedin][linkedin]][linkedin-urlrodri]
-* Yeison Ramirez - [![linkedin][linkedin]][linkedin-urlyeison]
+* [![linkedin][linkedin]][linkedin-urlyeison]: https://www.linkedin.com/in/yeison-johan-ram%C3%ADrez-osorno-9a0bb8243/
+* * Gmail: yeijoh91@gmail.com
 
 
-## Licencia:
-
-Este proyecto está bajo la Licencia MIT.
-
-¡Diviértete jugando y socializando en LobbyLair! Si tienes alguna pregunta o problema, no dudes en abrir un problema en este repositorio. ¡Esperamos tus contribuciones!
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
