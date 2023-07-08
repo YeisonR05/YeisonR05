@@ -1,9 +1,7 @@
 
 ### ¿Quién Soy?
 
-Soy Yeison Johan Ramirez, un apasionado desarrollador full stack. Con una sólida base en JavaScript, React, CSS3, Tailwind y Node.js, me esfuerzo por crear aplicaciones web atractivas e interactivas. Mi trayectoria como desarrollador se ha caracterizado por una sed de conocimiento y un impulso por mejorar continuamente mis habilidades.
-
-Al estar familiarizado con GitHub, comprendo la importancia del control de versiones y la colaboración en el desarrollo de software. Tengo experiencia trabajando en proyectos colaborativos, aprovechando Git para una gestión eficiente del código y la colaboración en equipo.
+Soy Yeison Johan Ramirez, un apasionado desarrollador full stack. Con una sólida base en JavaScript, React, CSS3, Tailwind y Node.js, me esfuerzo por crear aplicaciones web atractivas e interactivas. Al estar familiarizado con GitHub, comprendo la importancia del control de versiones y la colaboración en el desarrollo de software. Tengo experiencia trabajando en proyectos colaborativos, aprovechando Git para una gestión eficiente del código y la colaboración en equipo.
 
 Progreso en entornos dinámicos donde puedo aplicar mis habilidades para resolver problemas y mi creatividad para ofrecer soluciones robustas y amigables para el usuario. Ya sea construyendo interfaces receptivas en el front-end, diseñando y desarrollando APIs en el back-end o implementando funcionalidades de bases de datos, disfruto trabajando en todos los aspectos del proceso de desarrollo.
 
