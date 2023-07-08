@@ -6,16 +6,16 @@ I`m Yeison Johan Ramirez
 
 vfiuvdbfvbf
 
-## Programming Languages
+### Programming Languages
 [![Javascript][javascript]][js-url] [![React][React.js]][React-url] [![Node][Node.js]][Node-url]
 
-### Frontend Development
+#### Frontend Development
 [![HTMLl5][html5]][html-url] [![CSS3][css3]][css-url][![React][React.js]][React-url] [![Tailwind][Tailwind-css]][Tailwind-url]
 
-### Backend Development
+#### Backend Development
 [![postgresql][PostgreSQL]][postgresql-url] [![sequelize][Sequelize]][sequelize-url] [![Node][Node.js]][Node-url]
 
-### Tools & Technologies
+#### Tools & Technologies
 [![Github][github]][github-url] [![Figma][Figma-des]][Figma-url] [![Trello][trello]][trello-url] [![Vercel][Vercel]][Vercel-url]
 
 
