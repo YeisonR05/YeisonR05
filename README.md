@@ -22,6 +22,7 @@ vfiuvdbfvbf
 ## Información de contacto:
 
 [![linkedin][linkedin]][linkedin-urlyeison]
+<br>
 Gmail: yeijoh91@gmail.com
 
 
