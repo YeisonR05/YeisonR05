@@ -7,30 +7,22 @@ I`m Yeison Johan Ramirez
 vfiuvdbfvbf
 
 ## Principal Stack
-* [![Javascript][javascript]][js-url] [![React][React.js]][React-url] [![Node][Node.js]][Node-url]
+[![Javascript][javascript]][js-url] [![React][React.js]][React-url] [![Node][Node.js]][Node-url]
 
 ## Frontend Development
-* [![HTMLl5][html5]][html-url] [![CSS3][css3]][css-url][![React][React.js]][React-url] [![Tailwind][Tailwind-css]][Tailwind-url]
+[![HTMLl5][html5]][html-url] [![CSS3][css3]][css-url][![React][React.js]][React-url] [![Tailwind][Tailwind-css]][Tailwind-url]
 
 ## Backend Development
-* [![postgresql][PostgreSQL]][postgresql-url] [![sequelize][Sequelize]][sequelize-url] [![Node][Node.js]][Node-url]
+[![postgresql][PostgreSQL]][postgresql-url] [![sequelize][Sequelize]][sequelize-url] [![Node][Node.js]][Node-url]
 
 ## Tools & Technologies
-* [![Github][github]][github-url] [![Figma][Figma-des]][Figma-url] [![Trello][trello]][trello-url] [![Vercel][Vercel]][Vercel-url]
+[![Github][github]][github-url] [![Figma][Figma-des]][Figma-url] [![Trello][trello]][trello-url] [![Vercel][Vercel]][Vercel-url]
 
 
-* [![React][React.js]][React-url][![Redux][Redux-query]][Redux-url][![Tailwind][Tailwind-css]][Tailwind-url]
-* [![postgresql][PostgreSQL]][postgresql-url][![sequelize][Sequelize]][sequelize-url]
-* [![firebase][firebase]][firebase-url][![Render][Render]][Render-url][![Vercel][Vercel]][Vercel-url]
-* [![Express][Express.js]][express-url][![Webpack][Webpack.js]][Webpack-url][![Node][Node.js]][Node-url][![NPM][npm]][npm-url]
-* [![socket.io][socket.io]][socket.io-url][![jsonwebtoken][jsonwebtoken]][jsonwebtoken-url]
-* [![Figma][Figma-des]][Figma-url][![Trello][trello]][trello-url]
-* [![Git][git]][git-url][![Github][github]][github-url]
-* 
 ## Información de contacto:
 
-* [![linkedin][linkedin]][linkedin-urlyeison]: https://www.linkedin.com/in/yeison-johan-ram%C3%ADrez-osorno-9a0bb8243/
-* * Gmail: yeijoh91@gmail.com
+[![linkedin][linkedin]][linkedin-urlyeison]
+Gmail: yeijoh91@gmail.com
 
 
 
