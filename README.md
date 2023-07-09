@@ -24,7 +24,8 @@ Estoy emocionado de contribuir con mis habilidades y conocimientos en proyectos 
 
 [![linkedin][linkedin]][linkedin-urlyeison]
 <br>
-Gmail: yeijoh91@gmail.com
+Correo: yeijoh91@gmail.com
+Correo: yeison.ramirez@correounivalle.edu.co
 
 
 
