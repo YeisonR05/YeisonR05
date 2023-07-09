@@ -74,10 +74,4 @@ Correo: yeison.ramirez@correounivalle.edu.co
 
 <!--Linkedin -->
 [linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[linkedin-urlfer]: https://www.linkedin.com/in/fernando-volpato-5bb718217/
-[linkedin-urleli]: https://www.linkedin.com/in/elizabeth-ortiz-rivas/
-[linkedin-urllucas]: https://www.linkedin.com/in/lucas-fidel-ledesma-915589267/
-[linkedin-urlmati]: https://www.linkedin.com/in/matias-arroyo19/
-[linkedin-urlgise]: https://www.linkedin.com/in/gisella-gkallisti/
-[linkedin-urlrodri]: https://www.linkedin.com/in/rodrigo-velazquez-9bb156267/
 [linkedin-urlyeison]: https://www.linkedin.com/in/yeison-ramirez/
